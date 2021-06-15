@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&family=Shadows+Into+Light&display=swap');
+
+html {
+    background: rgba(0, 0, 0, 0.8)
+}
+
+
+/*----------------Navbar----------------*/
+.navbar {
+    padding: .8rem;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 32px;
+  }
+  
+.navbar-brand{
+    font-family: 'Pacifico', sans-serif ;
+    font-size: 50px;
+      
+  }
+  
+  .navbar-nav li {
+    padding-right: 20px;
+  }
+  
+  .nav-link {
+    
+    text-transform: uppercase;
+    display:block;
+    font-size: 2rem;
+    text-transform: uppercase;
+    padding: 5rem 1rem;
+    position: relative
+  }
+  
+  .mynav a{
+    color: #474e5d;
+  }
+  
+  .mynav a:hover {
+    border-bottom: 2px solid #DBA748;
+    
+  }
+  
+  .active a {
+    border-bottom: 2px solid #DBA748;
+   
+  }
+  
+  #nohover {
+    pointer-events: none;
+  }
+  
+ /*----------------Header----------------*/
+
+  .btn-red {
+    background-color: red;
+    color: #fff;
+    border: none !important;
+  }
+.btn {
+    padding: 10px 20px;
+    font-size: .85em;
+    font-weight: 700;
+    display: inline-block;
+    text-transform: uppercase;
+    }
+
+.view {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff
+    }
+    
+    h1{
+        font-family: 'Pacifico', sans-serif;
+        color: black;
+    }
+ 
+    
