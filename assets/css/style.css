@@ -106,6 +106,7 @@ body {
 #section1 h2{
   padding-top: 150px;
   font-family: 'Bebas Neue', sans-serif;
+  text-decoration: underline red;
 }
 /*----------------Section 2----------------*/
 #section2 p {
@@ -121,6 +122,7 @@ body {
 #section2 h2{
   padding-top: 150px;
   font-family: 'Bebas Neue', sans-serif;
+  text-decoration: underline red;
 }
 
 /*----------------Section 3----------------*/
@@ -138,6 +140,7 @@ body {
 #section3 h2{
   padding-top: 150px;
   font-family: 'Bebas Neue', sans-serif;
+  text-decoration: underline red;
 }
 
 /*----------------Footer----------------*/
@@ -169,3 +172,43 @@ body {
   text-align: center;
   object-fit:fill;
 }
+/*----------footer 2---------*/
+
+#terms{
+  background-color: black;
+  padding-top: 25px;
+  margin-top: 25px;
+  text-align: center;
+}
+
+#terms a {
+  font-size: 24px;
+  color: #DBA748;
+  margin-left: 50px;
+  text-decoration: none;
+}
+
+#newsletter{
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+#newsletter label{
+  color: #DBA748
+  
+}
+
+#subscribe{
+  background-color: #DBA748;
+}
+
+#n-email{
+  background-color: #DBA748; 
+  margin-left: 10px;
+}
+
+
+/*----------Media Links---------*/
