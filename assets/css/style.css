@@ -92,7 +92,7 @@ body {
 .img-fluid{
   padding-top: 100px;
 }
-
+/*----------------Section 1----------------*/
 #section1 p {
   font-family: 'Bebas Neue' sans-serif;
   font-size: 24px;
@@ -107,7 +107,7 @@ body {
   padding-top: 150px;
   font-family: 'Bebas Neue', sans-serif;
 }
-
+/*----------------Section 2----------------*/
 #section2 p {
   font-family: 'Bebas Neue' sans-serif;
   font-size: 24px;
@@ -121,4 +121,51 @@ body {
 #section2 h2{
   padding-top: 150px;
   font-family: 'Bebas Neue', sans-serif;
+}
+
+/*----------------Section 3----------------*/
+
+#section3 p {
+  font-family: 'Bebas Neue' sans-serif;
+  font-size: 24px;
+  padding-top: 50px;
+  text-align: justify;
+  font-family: 'Bebas Neue', sans-serif;
+  padding-right: 50px;
+  border-bottom: 1px solid #474e5d;
+}
+
+#section3 h2{
+  padding-top: 150px;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+/*----------------Footer----------------*/
+
+#footer{
+  background-color: red;
+  padding-top: 25px;
+  margin-top: 25px;
+}
+
+#footer h5{
+  font-family: 'Bebas Neue', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: #fff;
+  margin-top: 40px;
+}
+
+#footer i{
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+  width: -70px;
+  height: -70px;
+  margin: 40px
+}
+
+#footer p{
+  text-align: center;
+  object-fit:fill;
 }
