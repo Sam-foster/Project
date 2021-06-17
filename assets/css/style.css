@@ -92,6 +92,10 @@ body {
 .img-fluid{
   padding-top: 100px;
 }
+
+#food {
+  color:black;
+}
 /*----------------Section 1----------------*/
 #section1 p {
   font-family: 'Bebas Neue' sans-serif;
