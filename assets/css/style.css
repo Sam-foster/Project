@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&family=Shadows+Into+Light&display=swap');
 
 body {
-    background: rgba(0, 0, 0, 0.8);
+    background: gray;
     
 }
 
@@ -215,4 +215,12 @@ body {
 }
 
 
-/*----------Media Links---------*/
+/*----------Food Page---------*/
+
+#food h2{
+  background-color: #DBA748;
+  font-family: 'Pacifico', sans-serif;
+  font-size: 41px;
+  margin-left: -100px;
+  margin-right: -100px;
+}
