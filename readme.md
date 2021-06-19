@@ -1,6 +1,6 @@
 <h1 align=center>The Spectator</h1>
 
-##About
+## About
 - I chose to do a site purely like this because i got fed up of most sports bars been hard to navigate around. I simply wanted to design a site that was easy to navigate around and everything was easy to locate like finding what food & drink is available, what sports are showing and if i wanted to book a party/event then i could easy find it.
 
 
@@ -97,7 +97,7 @@ The main colors used in this project are
 
 ## Fonts
  
- The Fonts i installed are from [Google Fonts](https://fonts.google.com/)
+ The Fonts I installed are from [Google Fonts](https://fonts.google.com/)
 
  * <strong>Pacifico:</strong> Was used for the main bar logo and the headings for every page with a backup of sans-serif
  * <strong>Bebas Neue</strong>: Was used for all the text on the site with a backup of sans-serif  
