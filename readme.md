@@ -1,3 +1,5 @@
-#### The Spectator
+# The Spectator
+
+![responsive](assets/images/barfront.jpg")
 
 
