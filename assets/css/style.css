@@ -112,6 +112,21 @@ body {
   font-family: 'Bebas Neue', sans-serif;
   text-decoration: underline red;
 }
+#section1a p {
+  font-family: 'Bebas Neue' sans-serif;
+  font-size: 32px;
+  padding-top: 50px;
+  text-align: justify;
+  font-family: 'Bebas Neue', sans-serif;
+  padding-right: 50px;
+  border-bottom: 1px solid #474e5d
+}
+
+#section1a h2{
+  padding-top: 150px;
+  font-family: 'Bebas Neue', sans-serif;
+  text-decoration: underline red;
+}
 /*----------------Section 2----------------*/
 #section2 p {
   font-family: 'Bebas Neue' sans-serif;
