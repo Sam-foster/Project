@@ -150,8 +150,27 @@ body {
 
 #date {
   text-align: center;
-  margin-top: 25px;
-  background:rgb(167, 164, 164)
+  margin-top: 30px;
+  padding-top: 7px;
+  background: #DBA748;
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+#test{
+padding-top: 25px
+}
+
+.time{
+  color: rgb(167, 164, 164);
+  padding-top: 6px;
+}
+
+#fixtures {
+padding-top: 25px;
+text-align: center;
+padding-top: 6px;
+border-bottom: 1px solid;
+border-color: rgb(207, 203, 203);
 }
 /*----------------Section 2----------------*/
 #section2 p {
