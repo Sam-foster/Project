@@ -96,6 +96,20 @@ body {
 #food {
   color:black;
 }
+
+#food h2{
+  background-color: #DBA748;
+  font-family: 'Pacifico', sans-serif;
+  font-size: 41px;
+  text-align: center;
+}
+
+#whatson h2{
+  text-align: center;
+  font-family: 'Pacifico', san-serif;
+  text-transform: none;
+  font-size: 41px
+}
 /*----------------Section 1----------------*/
 #section1 p {
   font-family: 'Bebas Neue' sans-serif;
@@ -128,7 +142,17 @@ body {
   text-decoration: underline red;
 }
 
+#sports {
+ font-family: 'Bebas Neue', sans-serif;
+ text-decoration: underline red;
+ margin-top: 100px;
+}
 
+#date {
+  text-align: center;
+  margin-top: 25px;
+  background:rgb(167, 164, 164)
+}
 /*----------------Section 2----------------*/
 #section2 p {
   font-family: 'Bebas Neue' sans-serif;
@@ -246,9 +270,3 @@ body {
 
 /*----------Food Page---------*/
 
-#food h2{
-  background-color: #DBA748;
-  font-family: 'Pacifico', sans-serif;
-  font-size: 41px;
-  text-align: center;
-}
