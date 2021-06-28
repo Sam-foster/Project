@@ -184,6 +184,10 @@ padding-top: 6px;
 border-bottom: 1px solid;
 border-color: rgb(207, 203, 203);
 }
+
+.row {
+  padding-top: 15px;
+}
 /*----------------Section 2----------------*/
 #section2 p {
   font-family: 'Bebas Neue' sans-serif;
@@ -249,6 +253,9 @@ border-color: rgb(207, 203, 203);
   object-fit:fill;
 }
 /*----------footer 2---------*/
+.policy {
+  padding-right: 0px;
+}
 
 #terms{
   background-color: black;
@@ -286,16 +293,7 @@ border-color: rgb(207, 203, 203);
   margin-left: 10px;
 }
 
-@media only screen and (max-width: 375px) {
-  #terms{
-    text-align: center;
-  
-  }
-  body {
-    text-align: center;
-    
-  }
-}
+
   
 
 
@@ -334,7 +332,7 @@ border-color: rgb(207, 203, 203);
   margin: 0 0 20px 10px;
 }
 
-/*style main message field*/
+/*---------style main message field----------*/
 
 #message-field {
   width: 100%;
@@ -357,4 +355,15 @@ border-color: rgb(207, 203, 203);
   padding-top: 50px;
   margin-top: 30px;
   font-size: 32px;
+}
+
+/*------Media Frame------*/
+
+@media only screen and (max-width: 375px) {
+  
+  #newslettter {
+    margin-right: 0px
+  }
+
+  
 }
