@@ -122,7 +122,7 @@ body {
   font-size: 41px
 }
 /*----------------Section 1----------------*/
-#section1 p {
+.section1 p {
   font-family: 'Bebas Neue' sans-serif;
   font-size: 24px;
   padding-top: 50px;
@@ -132,12 +132,12 @@ body {
   border-bottom: 1px solid #474e5d
 }
 
-#section1 h2{
+.section1 h2{
   padding-top: 150px;
   font-family: 'Bebas Neue', sans-serif;
   text-decoration: underline red;
 }
-#section1a p {
+.section1a p {
   font-family: 'Bebas Neue' sans-serif;
   font-size: 32px;
   padding-top: 50px;
@@ -147,7 +147,7 @@ body {
   border-bottom: 1px solid #474e5d
 }
 
-#section1a h2{
+.section1a h2{
   padding-top: 150px;
   font-family: 'Bebas Neue', sans-serif;
   text-decoration: underline red;
@@ -159,15 +159,15 @@ body {
  margin-top: 100px;
 }
 
-#date {
+.date {
   text-align: center;
   margin-top: 30px;
-  padding-top: 7px;
+  padding-top: 10px;
   background: #DBA748;
   font-family: 'Bebas Neue', sans-serif;
 }
 
-#test{
+.test{
 padding-top: 25px
 }
 
@@ -176,7 +176,7 @@ padding-top: 25px
   padding-top: 6px;
 }
 
-#fixtures {
+.fixtures {
 padding-top: 25px;
 
 text-align: center;
@@ -239,8 +239,8 @@ border-color: rgb(207, 203, 203);
   text-align: center;
   color: #fff;
   font-size: 50px;
-  width: -70px;
-  height: -70px;
+  
+  height: 0px;
   margin: 40px
 }
 
@@ -309,7 +309,7 @@ border-color: rgb(207, 203, 203);
   padding-top: 50px;
 }
 
-/*style contact form*/
+
 
 .signup-form {
   background-color: #DBA748;
