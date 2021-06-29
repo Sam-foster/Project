@@ -90,7 +90,7 @@ body {
     }
  
     p {
-      font-family: 'Bebas Neue' sans-serif;
+      font-family: 'Bebas Neue', sans-serif;
       font-size: 32px;
     }    
 
@@ -123,7 +123,7 @@ body {
 }
 /*----------------Section 1----------------*/
 .section1 p {
-  font-family: 'Bebas Neue' sans-serif;
+  
   font-size: 24px;
   padding-top: 50px;
   text-align: justify;
@@ -138,7 +138,7 @@ body {
   text-decoration: underline red;
 }
 .section1a p {
-  font-family: 'Bebas Neue' sans-serif;
+  
   font-size: 32px;
   padding-top: 50px;
   text-align: justify;
@@ -190,7 +190,7 @@ border-color: rgb(207, 203, 203);
 }
 /*----------------Section 2----------------*/
 #section2 p {
-  font-family: 'Bebas Neue' sans-serif;
+  
   font-size: 24px;
   padding-top: 50px;
   text-align: justify;
@@ -208,7 +208,7 @@ border-color: rgb(207, 203, 203);
 /*----------------Section 3----------------*/
 
 #section3 p {
-  font-family: 'Bebas Neue' sans-serif;
+  
   font-size: 24px;
   padding-top: 50px;
   text-align: justify;
@@ -362,8 +362,9 @@ border-color: rgb(207, 203, 203);
 @media only screen and (max-width: 375px) {
   
   #newslettter {
-    margin-right: 0px
+    margin-right: 10px;
   }
 
+  
   
 }
