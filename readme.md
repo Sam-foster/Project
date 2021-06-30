@@ -31,8 +31,6 @@
 * [Credits](#Credits)
   * [Code](#Code)
   * [Text Content](#Text-Content)
-  * [Media](#Media)
-  * [Embedded Media](#Embedded-Media)
   * [Images and Icons](#Images-and-Icons)
 
 * [Deployment](#Deployment)
@@ -273,3 +271,84 @@ In the final stage of the project, I have tested the site thoroughly with automa
      **Result:** PASS
 
      By the user joining the newsletter they will be able to keep up with current and future offer and promotions been released.
+
+
+ ## Validator Testing
+ <hr>
+
+ Here are the results for HTML
+
+ ![Html](assets/readme-images/html.png)
+
+ Here are my results for css.
+ ![CSS](assets/readme-images/css.png)
+
+<hr>
+
+### Lighthouse
+
+I generated desktop and mobile Lighthouse reports from Google Chrome DevTools to review performance, SEO, the best practices and accessibility of the site. Mobile showed better results but desktop could be alot better.
+![Desktop](assets/readme-images/desktop.png)
+![Mobile](assets/readme-images/mobile1.png)
+<hr>
+## Credits
+
+### Code
+
+The Code Institute materials with the support of tutorial materials on w3schools, MDN Web Docs and bootstrap were used to create this site. All code seen in use there has been heavily modified to suit the needs of this site, except for the specific cases referenced below.
+
+Reference materials from w3schools and css-tricks were used to implement flexbox.
+
+Button  code was taken from Bootstrap docs.
+
+Icons taken from Font Awesome.
+
+### Text Content
+
+All text was written by me, but used sites https://champsbar.co.uk and https://www.belushis.com for inspiration.
+
+### Images 
+
+Images were sourced from Unsplash, Pexels and Shutterstock. Thank you to all the photographers!
+
+#### Header Images
+Index Image is from shutterstock by - Monkey Buisness Images
+Whats on Image is from shutterstock by - Monkey Buisness Images
+Food Image is from unsplash by - Elevate
+Contact Image is from Unsplash by - Adam Solomon
+
+#### Other Images
+About us picture is from Pexels - by Elevate
+Food Image is from Unsplash by - call me hangry
+England Image is taken from google images 
+Burger Image is from Unsplash by - Paul Kapishka
+Drink Image is from Unsplash by - Jonas Jackson
+
+
+<hr>
+## Deployment
+
+This project was developed using the Gitpod IDE. In order to save and see what I worked with previously I always add commit messenges and then Git push to save and push it to Github.
+
+For deploy this site I had to follow this steps:
+
+* Log in to my account at Github.
+* Open the repository that I wanted to deploy.
+* Select settings in the menu at the top and scroll down to Pages.
+* Open the drop-down menu in the source section.
+* Select main instead of none.
+* Save and wait a few seconds until it deployed.
+
+Here is my live link deployed: https://sam-foster.github.io/Project/
+<hr>
+
+## Acknowledgements
+
+I would like to thank my partner, she has been amazing and supportive through all of my first project. I would also like to thank my mentor Marcel Mulders, for pointing me in the right direction. Last but not least my tutor at Harlow college Patrick Justus for our 1 to 1 sessions on a Thursday, these have been really helpful.
+
+The Slack Community has been brilliant, any questions asked they've been really quick to answer them if they can.
+<hr>
+
+## Disclaimer
+
+The Spectator is an imaginary sports bar and the content of this website is for educational purposes only. It was created for the Code Institute’s HTML and CSS Essentials Portfolio Project, as part of their Diploma in Full Stack Software Development. The requirements are to make a static front-end website, using HTML and CSS.
