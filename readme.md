@@ -272,4 +272,4 @@ In the final stage of the project, I have tested the site thoroughly with automa
      
      **Result:** PASS
 
-     By the user joining the newsletter they will be able to keep up with current and future offer and promotions been released.the text on the site with a backup of sans-serif.  
+     By the user joining the newsletter they will be able to keep up with current and future offer and promotions been released.
