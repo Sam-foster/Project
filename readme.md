@@ -1,7 +1,9 @@
 <h1 align=center>The Spectator</h1>
 
+Live Site - https://sam.foster.github.io/Project/
+
 ## About
-- I chose to do a site purely like this because i got fed up of most sports bars been hard to navigate around. I simply wanted to design a site that was easy to navigate around and everything was easy to locate like finding what food & drink is available, what sports are showing and if i wanted to book a party/event then i could easy find it.
+- I chose to do a site purely like this because I got fed up of most sports bars been hard to navigate around. I simply wanted to design a site that was easy to navigate around and everything was easy to locate like finding what food & drink is available, What sports are showing and if I wanted to book a party/event then I could easy find it.
 
 
 ![mockup](assets/readme-images/responsive.png)
@@ -96,7 +98,7 @@ The main colors used in this project are
 ![Main-colors](assets/readme-images/MS1.png)
 
 * Banner under main image Sunray: #DBA748
-* Border around button on hero image Independance: #474E5D
+* Border around button on hero Image Independence: #474E5D
 * Social links banner Red and underline on hover : #FF000
 * Footer strip Black: #000000
 
@@ -105,11 +107,13 @@ The main colors used in this project are
  The Fonts I installed are from [Google Fonts](https://fonts.google.com/)
 
  * <strong>Pacifico:</strong> Was used for the main bar logo and the headings for every page with a backup of sans-serif.
+   * I chose this font because i thought it looked pleasing to look at.
  * <strong>Bebas Neue</strong>: Was used for all the text on the site with a backup of sans-serif.  
+   * I chose this font purely because i felt that it went with the theme of the site.
 
 ### Icons
 
-The icons i used were from font awesome [Font Awesome](https://fontawesome.com)
+The icons I used were from Font Awesome [Font Awesome](https://fontawesome.com)
 
 ### Images 
 
@@ -130,7 +134,7 @@ all fully responsive
  * <b>Header and navigation bar</b> 
    * Placed at the top left is the logo with is styled with the 'Pacifico' font. 
    * placed at the top right is the navigation menu styled in 'Bebas Neue'
-   * The main header picture i chose to represent the atmosphere at The Spectator. 
+   * The main header picture I chose to represent the atmosphere at The Spectator. 
    * The Contact button brings up a form for the user to enquire about an event.
 ![Main page](assets/readme-images/main.png)
 ![Main page](assets/readme-images/main2.png)
@@ -146,7 +150,7 @@ all fully responsive
 
 * <b>Whats On Page</b>
   * Lets the user look at whats games are on that week.
-  * Tried to kep this page basic, dont want to confuse the user with too much innformation.
+  * Tried to kep this page basic, don't want to confuse the user with too much information.
 ![Main page](assets/readme-images/page2.png)
 
 <br>
@@ -159,15 +163,15 @@ all fully responsive
 
 * <b>Footer</b>
   * The footer contains all the social links to find The Spectator on clicking them opens a new tab and take the user to the site.
-  * I also added the "never miss a game" which allows the user to input there email address and will recieve all upcomming events.
+  * I also added the "never miss a game" which allows the user to input there email address and will receive all upcoming events.
 
 ![Main page](assets/readme-images/footer1.png)
 
 
 ### Features to be implemented in the future
   * The site would be great with an online booking portal.
-  * The site would also benifit from a video tour as soon as you access the site.
-  * The site would also do well with a reviiew section.
+  * The site would also benefit from a video tour as soon as you access the site.
+  * The site would also do well with a review section.
 
   <hr>
 
@@ -188,7 +192,7 @@ all fully responsive
   * W3C Validator
   * W3C CSS Validator (Jigsaw)#
   * Am I Responsive
-  * Crome Developer Tools
+  * Chrome Developer Tools
   * Firefox Developer tools 
   * Bootstrap 5
   * Balsamiq 
@@ -216,7 +220,7 @@ In the final stage of the project, I have tested the site thoroughly with automa
 
   * **Result:** PASS
 
-  * The Hero image shows exactly what the The Spectator is about a warm welcoming place where friend can meet and have a drink a watch whatever sport is on. 
+  * The Hero Image shows exactly what the The Spectator is about a warm welcoming place where friend can meet and have a drink a watch whatever sport is on. 
   ![Main](assets/readme-images/main.png)
 
 
@@ -243,7 +247,7 @@ In the final stage of the project, I have tested the site thoroughly with automa
 
      * **Result:** PASS
 
-     The contact form is very minimalistic every is clear and easy for the user to understand. 
+     The contact form is very basic every section is clear and easy for the user to understand. 
 
      ![Contact](assets/readme-images/contactdesk.png)
      The mobile version of the contact form.
@@ -253,20 +257,20 @@ In the final stage of the project, I have tested the site thoroughly with automa
 
 * **Returning Customers**
     <br>
-   * As a returning user, i want to see updated events section.
+   * As a returning user, I want to see updated events section.
      
       **Result:** PASS
 
       In the whats on section, there is always a weekly view on the events coming up and will be updated daily.
      <br>
-   * As a returning user, i want to see updated food & drink section.
+   * As a returning user, I want to see updated food & drink section.
 
      **Result:** PASS
 
      The food and drink section has an up to date menu, 
      <br>
 
-   * As a returning user, i want to see new offers and promotions.
+   * As a returning user, I want to see new offers and promotions.
      
      **Result:** PASS
 
@@ -315,23 +319,25 @@ All text was written by me, but used sites https://champsbar.co.uk and https://w
 Images were sourced from Unsplash, Pexels and Shutterstock. Thank you to all the photographers!
 
 #### Header Images
-Index Image is from shutterstock by - Monkey Buisness Images
-Whats on Image is from shutterstock by - Monkey Buisness Images
-Food Image is from unsplash by - Elevate
-Contact Image is from Unsplash by - Adam Solomon
+* Index Image is from shutterstock by - Monkey Buisness Images
+* Whats on Image is from shutterstock by - Monkey Buisness Images
+* Food Image is from unsplash by - Elevate
+* Contact Image is from Unsplash by - Adam Solomon
 
 #### Other Images
-About us picture is from Pexels - by Elevate
-Food Image is from Unsplash by - call me hangry
-England Image is taken from google images 
-Burger Image is from Unsplash by - Paul Kapishka
-Drink Image is from Unsplash by - Jonas Jackson
+
+* About us picture is from Pexels - by Elevate
+* Food Image is from Unsplash by - call me hangry
+* England Image is taken from google images 
+* Burger Image is from Unsplash by - Paul Kapishka
+* Drink Image is from Unsplash by - Jonas Jackson
 
 
 <hr>
+
 ## Deployment
 
-This project was developed using the Gitpod IDE. In order to save and see what I worked with previously I always add commit messenges and then Git push to save and push it to Github.
+This project was developed using the Visual studio. In order to save and see what I worked with previously I always add commit messenges and then Git push to save and push it to Github.
 
 For deploy this site I had to follow this steps:
 
