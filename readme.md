@@ -291,6 +291,7 @@ I generated desktop and mobile Lighthouse reports from Google Chrome DevTools to
 ![Desktop](assets/readme-images/desktop.png)
 ![Mobile](assets/readme-images/mobile1.png)
 <hr>
+
 ## Credits
 
 ### Code
@@ -299,8 +300,10 @@ The Code Institute materials with the support of tutorial materials on w3schools
 
 Reference materials from w3schools and css-tricks were used to implement flexbox.
 
-Button  code was taken from Bootstrap docs.
+Reference Material was taken from Bootstrap on Containers.
 
+ All Button code was taken from Bootstrap docs.
+ 
 Icons taken from Font Awesome.
 
 ### Text Content
