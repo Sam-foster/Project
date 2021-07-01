@@ -3,7 +3,7 @@
 Live Site - https://sam.foster.github.io/Project/
 
 ## About
-- I chose to do a site purely like this because I got fed up of most sports bars been hard to navigate around. I simply wanted to design a site that was easy to navigate around and everything was easy to locate like finding what food & drink is available, What sports are showing and if I wanted to book a party/event then I could easy find it.
+- I chose to do a site like this because I got fed up of most sports bars been hard to navigate around. I simply wanted to design a site that was easy to navigate and everything was easy to locate, like finding what food & drink is available, what sports are showing and if I wanted to book a party/event I could easy find it.
 
 
 ![mockup](assets/readme-images/responsive.png)
@@ -64,9 +64,9 @@ Live Site - https://sam.foster.github.io/Project/
 
 ### Returning Visitor Goals
 
-* As a returning user, i want to see updated events section
-* As a returning user, i want to see updated food & drink section
-* As a returning user, i want to see new offers and promotions.
+* As a returning user, I want to see updated events section
+* As a returning user, I want to see updated food & drink section
+* As a returning user, I want to see new offers and promotions.
 
 <hr>
 
@@ -97,7 +97,7 @@ Live Site - https://sam.foster.github.io/Project/
 The main colors used in this project are
 ![Main-colors](assets/readme-images/MS1.png)
 
-* Banner under main image Sunray: #DBA748
+* Banner under main image is Sunray: #DBA748
 * Border around button on hero Image Independence: #474E5D
 * Social links banner Red and underline on hover : #FF000
 * Footer strip Black: #000000
@@ -107,13 +107,13 @@ The main colors used in this project are
  The Fonts I installed are from [Google Fonts](https://fonts.google.com/)
 
  * <strong>Pacifico:</strong> Was used for the main bar logo and the headings for every page with a backup of sans-serif.
-   * I chose this font because i thought it looked pleasing to look at.
+   * I chose this font because I thought it was pleasing to look at. The relaxed style of font (like handwriting) created a relaxed welcoming feel.
  * <strong>Bebas Neue</strong>: Was used for all the text on the site with a backup of sans-serif.  
-   * I chose this font purely because i felt that it went with the theme of the site.
+   * I chose this font purely because I felt that it went with the theme of the site. This font is smart and clean, easy to read.
 
 ### Icons
 
-The icons I used were from Font Awesome [Font Awesome](https://fontawesome.com)
+The social media icons I used were from Font Awesome [Font Awesome](https://fontawesome.com)
 
 ### Images 
 
@@ -127,43 +127,43 @@ All images were taken from:
 ## Features
 
 This is a 4 page website, with a main page, a whats on page, a fixtures and a contact page. 
-all fully responsive 
+All fully responsive.
 
 ### Existing Features 
 
  * <b>Header and navigation bar</b> 
    * Placed at the top left is the logo with is styled with the 'Pacifico' font. 
-   * placed at the top right is the navigation menu styled in 'Bebas Neue'
-   * The main header picture I chose to represent the atmosphere at The Spectator. 
+   * Placed at the top right is the navigation menu styled in 'Bebas Neue'
+   * The main header picture I chose to represent the atmosphere at The Spectator, it shows a variety of age   groups and people to show that the bar is for everyone. 
    * The Contact button brings up a form for the user to enquire about an event.
 ![Main page](assets/readme-images/main.png)
 ![Main page](assets/readme-images/main2.png)
 <br>
 
 * <b>Food and Drink</b>
-  * The food and Drink section provides the user to look at whats available at the spectator
-  * Both button take the user to a menu for food and drink, which opens up in to a pdf file.
+  * The food and drink section allows the user to look at whats available to eat at The Spectator, hopefully making people quite hungry.
+  * Both buttons take the user to a menu for food and drink, which opens up in to a pdf file.
 ![Main page](assets/readme-images/page3.png)
 ![Main page](assets/readme-images/page4.png)
 ![Main page](assets/readme-images/page5.png)
 <br>
 
 * <b>Whats On Page</b>
-  * Lets the user look at whats games are on that week.
-  * Tried to kep this page basic, don't want to confuse the user with too much information.
+  * Lets the user look at what games are on that week.
+  * I tried to keep this page basic, I didn't want to confuse the user with too much information.
 ![Main page](assets/readme-images/page2.png)
 
 <br>
 
 * <b>Contact Section</b>
-  * Just a simple contact form lets the user select what they want to ask ie book table or hire venue
+  * Just a simple contact form lets the user select what they want to ask ie. Book a table or hire the venue
 
 ![Main page](assets/readme-images/page6.png)
 <br>
 
 * <b>Footer</b>
-  * The footer contains all the social links to find The Spectator on clicking them opens a new tab and take the user to the site.
-  * I also added the "never miss a game" which allows the user to input there email address and will receive all upcoming events.
+  * The footer contains all the social links to find The Spectator by clicking them this opens a new tab and takes the user to the relevant page.
+  * I also added the "never miss a game" which allows the user to input their email address and will receive all upcoming events (newsletter).
 
 ![Main page](assets/readme-images/footer1.png)
 
@@ -181,7 +181,7 @@ all fully responsive
     
   * HTML 
   * CSS
-  * Java Script
+  * JavaScript
 
   ### Frameworks & Tools
 
@@ -190,7 +190,7 @@ all fully responsive
   * Google Fonts
   * Font Awesome
   * W3C Validator
-  * W3C CSS Validator (Jigsaw)#
+  * W3C CSS Validator (Jigsaw)
   * Am I Responsive
   * Chrome Developer Tools
   * Firefox Developer tools 
@@ -206,7 +206,7 @@ all fully responsive
 
   I tested the site regularly during the development process, by previewing it in the live server window and inspecting with Google Chrome DevTools at various breakpoints. Simultaneously, I was checking any new additions and changes on several devices available in my household. Any issues found, were addressed at that stage and double checked before moving on with the rest of the project.
 
-Only later in the project, I started using FireFox DevTools found it much easier to play around with styling changes before implementing them into my actual code which could have saved me time and multiple commits for the same element.
+Only later in the project, I started using FireFox DevTools found it much easier to play around with styling changes before implementing them into my actual code, which could have saved me time and multiple commits for the same element.
 
 In the final stage of the project, I have tested the site thoroughly with automatic validators and manually on different devices and in several browsers, taking into account user stories from the UX section, as per below.
 
@@ -220,7 +220,7 @@ In the final stage of the project, I have tested the site thoroughly with automa
 
   * **Result:** PASS
 
-  * The Hero Image shows exactly what the The Spectator is about a warm welcoming place where friend can meet and have a drink a watch whatever sport is on. 
+  * The Hero Image shows exactly what the The Spectator is about, a warm welcoming place, where friends can meet and have a drink a watch whatever sport is on. 
   ![Main](assets/readme-images/main.png)
 
 
@@ -228,17 +228,17 @@ In the final stage of the project, I have tested the site thoroughly with automa
    
    * **Result:** PASS
 
-   The site has a very simple navigation bar which links directly to a new tab.
-   and a dropdown menu in mobile version.
+   The site has a very simple navigation bar which links directly to a new tab, with a dropdown menu in mobile version.
   
    ![Nav](assets/readme-images/mainnav.png)
+   Mobile view.
    ![Nav](assets/readme-images/navmobile.png)
 
-   *   As a new user, I want to be able to tell new clients.
+   *   As a new user, I want to be able to tell new clients about the site.
 
     * **Result:** PASS
 
-    The site have got clear social links just above the footer which directs the user to that destination.
+    The site has got clear social links just above the footer, which directs the user to that destination.
 
 
     ![Social](assets/readme-images/footer1.png)
@@ -247,7 +247,7 @@ In the final stage of the project, I have tested the site thoroughly with automa
 
      * **Result:** PASS
 
-     The contact form is very basic every section is clear and easy for the user to understand. 
+     The contact form is very basic, every section is clear and easy for the user to understand. 
 
      ![Contact](assets/readme-images/contactdesk.png)
      The mobile version of the contact form.
@@ -267,14 +267,14 @@ In the final stage of the project, I have tested the site thoroughly with automa
 
      **Result:** PASS
 
-     The food and drink section has an up to date menu, 
+     The food and drink section has an up to date menu. The menu could change seasonally, to take in to account big events such as Christmas.
      <br>
 
    * As a returning user, I want to see new offers and promotions.
      
      **Result:** PASS
 
-     By the user joining the newsletter they will be able to keep up with current and future offer and promotions been released.
+     By the user joining the newsletter they will be able to keep up with current and future offers and promotions as they are released.
 
 
  ## Validator Testing
@@ -300,7 +300,7 @@ I generated desktop and mobile Lighthouse reports from Google Chrome DevTools to
 
 ### Code
 
-The Code Institute materials with the support of tutorial materials on w3schools, MDN Web Docs and bootstrap were used to create this site. All code seen in use there has been heavily modified to suit the needs of this site, except for the specific cases referenced below.
+The Code Institute materials with the support of tutorial materials on w3schools, MDN Web Docs and bootstrap were used to create this site. All code seen has been heavily modified to suit the needs of this site, except for the specific cases referenced below.
 
 Reference materials from w3schools and css-tricks were used to implement flexbox.
 
@@ -328,7 +328,7 @@ Images were sourced from Unsplash, Pexels and Shutterstock. Thank you to all the
 
 * About us picture is from Pexels - by Elevate
 * Food Image is from Unsplash by - call me hangry
-* England Image is taken from google images 
+* England Image is taken from Google Images 
 * Burger Image is from Unsplash by - Paul Kapishka
 * Drink Image is from Unsplash by - Jonas Jackson
 
@@ -337,7 +337,7 @@ Images were sourced from Unsplash, Pexels and Shutterstock. Thank you to all the
 
 ## Deployment
 
-This project was developed using the Visual studio. In order to save and see what I worked with previously I always add commit messenges and then Git push to save and push it to Github.
+This project was developed using the Visual studio. In order to save and see what I worked with previously I always add commit messages and then Git push to save and push it to Github.
 
 For deploy this site I had to follow this steps:
 
@@ -353,7 +353,7 @@ Here is my live link deployed: https://sam-foster.github.io/Project/
 
 ## Acknowledgements
 
-I would like to thank my partner, she has been amazing and supportive through all of my first project. I would also like to thank my mentor Marcel Mulders, for pointing me in the right direction. Last but not least my tutor at Harlow college Patrick Justus for our 1 to 1 sessions on a Thursday, these have been really helpful.
+I would like to thank my partner, she has been amazing and supportive through all of my first project. I would also like to thank my mentor Marcel Mulders, for pointing me in the right direction. Last but not least, my tutor at Harlow college Patrick Justus for our 1 to 1 sessions on a Thursday, these have been really helpful.
 
 The Slack Community has been brilliant, any questions asked they've been really quick to answer them if they can.
 <hr>
